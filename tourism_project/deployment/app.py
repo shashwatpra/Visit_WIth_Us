@@ -15,7 +15,7 @@ from huggingface_hub import hf_hub_download
 
 # --- Load Model ---
 HF_TOKEN = os.environ.get('HF_TOKEN')
-MODEL_REPO = os.environ.get('MODEL_REPO', 'your-hf-username/tourism-package-model')
+MODEL_REPO = os.environ.get('MODEL_REPO', 'shsahwatpra/tourism-package-model')
 
 @st.cache_resource
 def load_model():
