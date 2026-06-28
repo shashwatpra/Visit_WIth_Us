@@ -1,0 +1,3 @@
+Age,TypeofContact,CityTier,DurationOfPitch,Occupation,Gender,NumberOfPersonVisiting,PreferredPropertyStar,MaritalStatus,NumberOfTrips,Passport,OwnCar,NumberOfChildrenVisiting,Designation,MonthlyIncome,PitchSatisfactionScore,ProductPitched
+55,Company Invited,1,16,Salaried,Male,2,3,Single,1,0,1,0,Executive,28000,4,Basic
+33,Company Invited,1,19,Self Employed,Female,3,3,Married,1,1,0,1,Manager,38000,4,Basic
